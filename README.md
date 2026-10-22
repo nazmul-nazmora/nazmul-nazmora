@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nazmul Islam 👋
 
-<!--
-**nazmul-nazmora/nazmul-nazmora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Learner | Python Developer in Progress
 
-Here are some ideas to get you started:
+I'm building my software engineering skills through consistent learning and practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Learning Python and improving my problem-solving skills
+- 💻 Building practical software projects
+- 🤖 Exploring AI and Robotics
+- 🌱 Growing my skills and building with NAZMORA
+
+### My Goal
+To use technology and software to solve real-world problems and create meaningful value for people.
+
+**Grow Self. Elevate Others. Build Tomorrow.**
